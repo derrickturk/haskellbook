@@ -1,0 +1,11 @@
+**/.stack-work/**
+*.exe
+*.hi
+*.db
+*.o
+*.aux
+*.hp
+*.pdf
+*.ps
+*.dat
+*.prof
